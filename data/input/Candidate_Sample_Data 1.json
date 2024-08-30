@@ -1,0 +1,147 @@
+{
+  "_id": {
+    "$oid": "66cee0c77cb78f023b770977"
+  },
+  "CandidateID": 293376,
+
+  "address": {
+    "address1": null,
+    "address2": null,
+    "city": "Marseille",
+    "countryCode": "FR",
+    "countryID": 2245,
+    "countryName": "France",
+    "state": null,
+    "zip": "13001"
+  },
+  "branch": null,
+  "businessSectors": {
+    "total": 0,
+    "data": []
+  },
+
+
+  "educations": {
+    "total": 2,
+    "data": [
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e45c"
+        },
+        "id": 151742,
+        "degree":"Specialized Quality Management",
+        "school":"Miklós Zrínyi National Defence University",
+        "StartDate":1388595600000,
+        "EndDate":1388595600000
+      },
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e45d"
+        },
+        "id": 151741,
+        "degree":"(M2), Informatique parcours Réseaux en alternance",
+        "school":"Sorbonne Universités",
+        "StartDate":1451667600000,
+        "EndDate":1514826000000
+      }
+    ]
+  },
+  "email": "xxxxxx@gmail.com",
+
+  "firstName": "Moxxxxd",
+  "lastName": "Axx Gxxxxt",
+ 
+
+
+  "primarySkills": {
+    "total": 7,
+    "data": [
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e45f"
+        },
+        "id": 1000412,
+        "name": "Angular"
+      },
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e460"
+        },
+        "id": 1000383,
+        "name": "mvc"
+      },
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e461"
+        },
+        "id": 1000244,
+        "name": "SQL"
+      },
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e462"
+        },
+        "id": 1000022,
+        "name": "Javascript"
+      },
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e463"
+        },
+        "id": 1000020,
+        "name": "C#"
+      },
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e464"
+        },
+        "id": 1000011,
+        "name": "PHP"
+      },
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e465"
+        },
+        "id": 1000007,
+        "name": ".net"
+      }
+    ]
+  },
+  "PhoneNumber" : ["+216123456789"],
+  
+  "workHistories": {
+    "total": 3,
+    "data": [
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e466"
+        },
+        "id": 1277018,
+        "CompanyName":"Vinci",
+        "Position":"Responsable de la réalisation des tâches",
+        "StartDate":1546362000000,
+        "EndDate":1546362000000
+      },
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e467"
+        },
+        "id": 1277017,
+        "CompanyName":"CONSULTIM IT",
+        "Position":"Consultant NET Angular",
+        "StartDate":1593619200000,
+        "EndDate":1722528000000
+      },
+      {
+        "_id": {
+          "$oid": "66cee0c70ff25efa1790e468"
+        },
+        "id": 1277016,
+        "CompanyName":"UTSI",
+        "Position":"Consultant NET",
+        "StartDate":1388595600000,
+        "EndDate":1593619200000
+      }
+    ]
+  }
+}

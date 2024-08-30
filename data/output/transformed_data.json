@@ -1,0 +1,90 @@
+{
+    "candidate": {
+        "candidateID": 293376,
+        "name": "Moxxxxd Axx Gxxxxt",
+        "email": "xxxxxx@gmail.com",
+        "phone": "+216123456789",
+        "address": "Marseille, France"
+    },
+    "skills": [
+        {
+            "skillID": 1000412,
+            "candidateID": 293376,
+            "skillName": "Angular"
+        },
+        {
+            "skillID": 1000383,
+            "candidateID": 293376,
+            "skillName": "mvc"
+        },
+        {
+            "skillID": 1000244,
+            "candidateID": 293376,
+            "skillName": "SQL"
+        },
+        {
+            "skillID": 1000022,
+            "candidateID": 293376,
+            "skillName": "Javascript"
+        },
+        {
+            "skillID": 1000020,
+            "candidateID": 293376,
+            "skillName": "C#"
+        },
+        {
+            "skillID": 1000011,
+            "candidateID": 293376,
+            "skillName": "PHP"
+        },
+        {
+            "skillID": 1000007,
+            "candidateID": 293376,
+            "skillName": ".net"
+        }
+    ],
+    "work_histories": [
+        {
+            "workHistoryID": 1277018,
+            "candidateID": 293376,
+            "companyName": "Vinci",
+            "position": "Responsable de la r\u00c3\u00a9alisation des t\u00c3\u00a2ches",
+            "startDate": "2019-01-01 18:00",
+            "endDate": "2019-01-01 18:00"
+        },
+        {
+            "workHistoryID": 1277017,
+            "candidateID": 293376,
+            "companyName": "CONSULTIM IT",
+            "position": "Consultant NET Angular",
+            "startDate": "2020-07-01 17:00",
+            "endDate": "2024-08-01 17:00"
+        },
+        {
+            "workHistoryID": 1277016,
+            "candidateID": 293376,
+            "companyName": "UTSI",
+            "position": "Consultant NET",
+            "startDate": "2014-01-01 18:00",
+            "endDate": "2020-07-01 17:00"
+        }
+    ],
+    "educations": [
+        {
+            "educationID": 151742,
+            "candidateID": 293376,
+            "school": "Mikl\u00c3\u00b3s Zr\u00c3\u00adnyi National Defence University",
+            "degree": "Specialized Quality Management",
+            "startDate": "2014-01-01 18:00",
+            "endDate": "2014-01-01 18:00"
+        },
+        {
+            "educationID": 151741,
+            "candidateID": 293376,
+            "school": "Sorbonne Universit\u00c3\u00a9s",
+            "degree": "(M2), Informatique parcours R\u00c3\u00a9seaux en alternance",
+            "startDate": "2016-01-01 18:00",
+            "endDate": "2018-01-01 18:00"
+        }
+    ]
+}
